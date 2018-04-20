@@ -1,5 +1,5 @@
 # JavaMaze
-A maze game made in Java
+A maze game made in Java in 2014
 
 A recursice maze made where the player controls by the keyboard arrows to get to the finish
 
